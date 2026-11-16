@@ -1,0 +1,6 @@
+{
+  "name": "IRIS AI",
+  "description": "IRIS AI – Personal Desktop Assistant by Saqib Anwar. Your Intelligence. Your Assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
